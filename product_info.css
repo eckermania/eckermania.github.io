@@ -1,0 +1,109 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+html {
+    height: 100%;
+  }
+  body {
+     width: 100%;
+     height: 100%;
+     font-family: Verdana;
+     background-color: #E0E4CC;
+     line-height: 1.8em;
+     margin-left: 20px;
+  }
+  p span {
+      display: block;
+      margin-bottom: 20px;
+      margin-left: 20px;
+  }
+  #headsetPic {
+      width: 30%;
+      border-radius: 50%;
+      float: left;
+      margin: 20px;
+
+  }
+  #PDFicon {
+      width: 10%;
+      float: right;
+      padding: 50px;
+  }
+  #cart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-bottom: 50px;
+  }
+  #pricing {
+      width: 100%;
+      float: left;
+  }
+  #setUp {
+      float: left;
+      width: 100%;
+  }
+  h3 {
+      font-style:oblique;
+      margin-left: 20px;
+  }
+  header {
+      background-color: #69D2E7;
+      padding: 5px;
+      font-size: 30;
+      display: block;
+      text-align:center;
+  }
+  h2 {
+      text-align: center;
+  }
+  nav {
+      float: left;
+      width: 100%;
+      background-color: #F38630;
+  }
+  nav ul {
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      height: 25px;
+      padding: 12px 18px 8px 18px;
+  }
+  nav li a:hover {
+    background-color: #FA6900;
+}
+  a {
+      color:#E0E4CC ;
+  }
+  section {
+    width: 100%;
+    display: inline-block;
+    float: left;
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 100%;
+      background-color:#FA6900;
+      color:#E0E4CC;
+      clear: both;
+      display: block;
+      text-align: center;
+  }
